@@ -1,0 +1,4 @@
+clear
+cmake .
+make
+./PROJECT /home/omais/Downloads/cifar10_first_two_classes/test/airplane_30.png

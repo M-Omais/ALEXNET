@@ -1,0 +1,3 @@
+/home/omais/Desktop/PROJECT/CMakeFiles/PROJECT.dir
+/home/omais/Desktop/PROJECT/CMakeFiles/edit_cache.dir
+/home/omais/Desktop/PROJECT/CMakeFiles/rebuild_cache.dir
