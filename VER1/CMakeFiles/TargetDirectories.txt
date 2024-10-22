@@ -1,0 +1,3 @@
+/home/omais/Videos/VER1/CMakeFiles/PROJECT.dir
+/home/omais/Videos/VER1/CMakeFiles/edit_cache.dir
+/home/omais/Videos/VER1/CMakeFiles/rebuild_cache.dir
